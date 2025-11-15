@@ -36,6 +36,9 @@ Thus, at any time step, the system may lie on one of several nonlinear curves:
 $f(Y, \theta_{m_i}) = 0$.
 
 ---
+## 4. Purpose
+
+The purpose of this repo is to compile tools and environments I have used or think will be useful in the investigation of this problem, alongside some of its results.
 
 
 
