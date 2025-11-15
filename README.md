@@ -15,7 +15,7 @@ Only a subset of components of the continuous state are directly measured:
 $Y \in X_C$.
 
 These observed variables obey a parametric nonlinear relationship:  
-$f(Y, theta) = 0$.
+$f(Y, \theta) = 0$.
 
 
 ---
@@ -30,10 +30,10 @@ Examples include:
 - different parameter sets  
 - internal logic of a hybrid machine  
 
-Each discrete mode $m_i$ can have its own parameter vector $theta$.
+Each discrete mode $m_i$ can have its own parameter vector $\theta$.
 
 Thus, at any time step, the system may lie on one of several nonlinear curves:  
-$f(X_co, theta_{m_i}) = 0$.
+$f(Y, \theta_{m_i}) = 0$.
 
 ---
 
