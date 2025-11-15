@@ -12,7 +12,7 @@ where `X_D` has dimension m and `X_C` has dimension n. The state transition dyna
 ## 2. Observability Structure
 
 Only a subset of components of the continuous state are directly measured:  
-`Y \in X_C`.
+$Y \in X_C$.
 
 These observed variables obey a parametric nonlinear relationship:  
 `f(Y, theta) = 0`.
